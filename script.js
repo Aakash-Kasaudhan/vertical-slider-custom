@@ -20,4 +20,4 @@ function startScroll() {
   }, 2000); 
 }
 
-startScroll();
+//startScroll();
